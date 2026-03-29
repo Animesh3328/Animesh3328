@@ -1,5 +1,6 @@
 Hi, I'm ANIMESH ARJARIYA
 
+🎓 University: VIT Bhopal University
 🎓 Branch: CSE[AI&ML] 
 📅 Year: 1st YEAR
 
