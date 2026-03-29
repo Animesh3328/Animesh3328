@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm ANIMESH ARJARIYA
 
-<!--
-**Animesh3328/Animesh3328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Branch: CSE[AI&ML] 
+📅 Year: 1st YEAR
 
-Here are some ideas to get you started:
+💡 About Me:  
+I am currently learning and exploring new technologies, and I hope to improve my skills in programming and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Goals:
+- Learn new programming languages
+- Build real-world projects
+- Contribute to open source
+
